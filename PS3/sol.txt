@@ -1,0 +1,2 @@
+The mentioned keyword was "order of highest severity", which meant the codes were to be merged in with the order of the intensity of the colors. 
+All merged with hyphons as separator.

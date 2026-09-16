@@ -1,0 +1,4 @@
+The final task was to implement a RAG to access the database to retrieve the codes with respect to the provided queries.
+The implementation was made completely by AI.
+
+Use an API key to authorize the use of a model, and change the base url if needed.
